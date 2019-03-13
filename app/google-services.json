@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176486055338",
+    "firebase_url": "https://fir-messagingtutorial-5566c.firebaseio.com",
+    "project_id": "fir-messagingtutorial-5566c",
+    "storage_bucket": "fir-messagingtutorial-5566c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176486055338:android:a5578212a4277f4b",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176486055338-r5cv0pfmorsr4m4va8csibjtp87qir3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasemessagingtutorial",
+            "certificate_hash": "7bc11b804a5c5a11155ec21c76596ea90eabdfbd"
+          }
+        },
+        {
+          "client_id": "176486055338-riefj21lnh0203c8mqnvo2fglprjgl1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtr7Et9EgoyxAgRiA89NkUg1SI3flJ0pY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176486055338-riefj21lnh0203c8mqnvo2fglprjgl1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
