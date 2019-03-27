@@ -48,7 +48,8 @@ public class MyFMService extends FirebaseMessagingService {
 //            } else {
                 // Handle message within 10 seconds
                 handleNow();dsadas
-//            }
+//            }2
+
 
             }
 
