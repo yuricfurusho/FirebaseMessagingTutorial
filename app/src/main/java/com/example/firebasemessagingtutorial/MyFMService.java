@@ -50,6 +50,7 @@ public class MyFMService extends FirebaseMessagingService {
                 handleNow();dsadas
 //            }2
 3
+        4
 
             }
 
