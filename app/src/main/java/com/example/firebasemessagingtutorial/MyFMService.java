@@ -49,7 +49,7 @@ public class MyFMService extends FirebaseMessagingService {
                 // Handle message within 10 seconds
                 handleNow();dsadas
 //            }2
-
+3
 
             }
 
